@@ -5,4 +5,4 @@ Durante os dez dias analisados, observamos uma variação significativa no preç
 
 ## Gráfico de Variação do Preço da Gasolina
 
-![Gráfico de Variação do Preço da Gasolina](grafico_precos_gasolina.png)
+![Gráfico de Variação do Preço da Gasolina](gasolina.png)
